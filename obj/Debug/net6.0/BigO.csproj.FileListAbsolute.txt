@@ -1,0 +1,15 @@
+/Users/mehmetayaz/Desktop/BigO/bin/Debug/net6.0/BigO
+/Users/mehmetayaz/Desktop/BigO/bin/Debug/net6.0/BigO.deps.json
+/Users/mehmetayaz/Desktop/BigO/bin/Debug/net6.0/BigO.runtimeconfig.json
+/Users/mehmetayaz/Desktop/BigO/bin/Debug/net6.0/BigO.dll
+/Users/mehmetayaz/Desktop/BigO/bin/Debug/net6.0/BigO.pdb
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/BigO.csproj.AssemblyReference.cache
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/BigO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/BigO.AssemblyInfoInputs.cache
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/BigO.AssemblyInfo.cs
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/BigO.csproj.CoreCompileInputs.cache
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/BigO.dll
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/refint/BigO.dll
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/BigO.pdb
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/BigO.genruntimeconfig.cache
+/Users/mehmetayaz/Desktop/BigO/obj/Debug/net6.0/ref/BigO.dll
